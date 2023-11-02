@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <section class="portfolio" id="portfolio">
+        <h2 class="heading">My<span>Skills</span></h2>
+
+        <div class="portfolio-container">
+            <div class="portfolio box">
+                <img src="img/pic1.jpeg" alt="">
+                <div class="portfolio-layer">
+                    <h4>Web Design</h4>
+                    <P>I am a professional web designer with a experience of 
+                        1 + years at internship and project</P>
+                    <a href="#"><i class='bx bx-link-external'></i></a>
+                </div>
+            </div>
+
+            <div class="portfolio box">
+                <img src="img/pic1.jpeg" alt="">
+                <div class="portfolio-layer">
+                    <h4>Web Design</h4>
+                    <P>I am a professional web designer with a experience of 
+                        1 + years at internship and project</P>
+                    <a href="#"><i class='bx bx-link-external'></i></a>
+                </div>
+            </div>
+        </div>
+    </section>
+</body>
+</html>
